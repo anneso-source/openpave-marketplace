@@ -45,7 +45,7 @@ skills:
     published: 2026-02-21T00:00:00.000Z
   gcal:
     name: gcal
-    version: 1.2.0
+    version: 2.0.0
     description: Read and manage Google Calendar events securely using OAuth
     author: cnrai
     repository: cnrai/openpave-gcal
@@ -80,7 +80,7 @@ skills:
     published: 2026-04-17T15:22:58.638Z
   gtasks:
     name: gtasks
-    version: 1.1.0
+    version: 2.0.0
     description: Manage Google Tasks securely using OAuth
     author: cnrai
     repository: cnrai/openpave-gtasks
@@ -195,7 +195,7 @@ skills:
     published: 2026-02-24T14:20:38.376Z
   freshbooks:
     name: freshbooks
-    version: 1.1.0
+    version: 2.0.0
     description: Manage FreshBooks invoices, clients, expenses, payments, projects, and time tracking
     author: cnrai
     repository: cnrai/openpave-freshbooks
@@ -230,7 +230,7 @@ skills:
     published: 2026-02-22T15:32:25.545Z
   playwright:
     name: playwright
-    version: 1.1.0
+    version: 2.0.0
     description: Browser automation with Playwright - screenshots, PDFs, code generation, session management, and testing
     author: cnrai
     repository: cnrai/openpave-playwright
@@ -376,10 +376,12 @@ skills:
     published: 2026-04-25T02:43:12.162Z
   deck:
     name: deck
-    version: 1.0.2
+    version: 2.0.0
     description: >-
-      Generate beautiful C&R-branded HTML presentation decks from an explicit slide DSL. ~15 slide types across C&R
-      light and PAVE dark themes.
+      Generate beautiful C&R-branded HTML presentation decks from an explicit slide DSL. ~22 slide types. Two commands: `deck light` (C&R) and `deck dark` (PAVE). C&R
+      light and PAVE dark themes. PAVE slides support full-bleed bg images, light/accent variants, automatic
+      logo-swap, card-clip / card-num / card-bracket / card-glass, sides diagrams, architecture rows, vertical
+      timelines, big quote slides.
     author: cnrai
     repository: cnrai/openpave-deck
     category: design
