@@ -1,5 +1,5 @@
 version: 1
-updated: 2026-07-12T07:20:05.602Z
+updated: 2026-07-14T19:38:29.317Z
 skills:
   gmail:
     name: gmail
@@ -45,7 +45,7 @@ skills:
     published: 2026-02-21T00:00:00.000Z
   gcal:
     name: gcal
-    version: 1.3.4
+    version: 1.3.5
     description: Read and manage Google Calendar events securely using OAuth
     author: cnrai
     repository: cnrai/openpave-gcal
@@ -60,7 +60,7 @@ skills:
       - appointments
       - event-creation
       - event-management
-    published: 2026-07-12T07:20:02.760Z
+    published: 2026-07-14T19:38:25.418Z
   gdrive:
     name: gdrive
     version: 1.2.0
@@ -454,7 +454,9 @@ skills:
   pavesuperpower:
     name: pavesuperpower
     version: 1.0.0
-    description: Workflow skill library for PAVE — TDD, systematic debugging, code review, planning, and proven collaboration patterns. Each command loads a workflow's instructions into context.
+    description: >-
+      Workflow skill library for PAVE — TDD, systematic debugging, code review, planning, and proven collaboration
+      patterns. Each command loads a workflow's instructions into context.
     author: cnrai
     repository: cnrai/pavesuperpower
     category: developer-tools
