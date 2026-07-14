@@ -451,3 +451,21 @@ skills:
       - scraping
       - rpa
     published: 2026-07-04T17:41:07.452Z
+  pavesuperpower:
+    name: pavesuperpower
+    version: 1.0.0
+    description: Workflow skill library for PAVE — TDD, systematic debugging, code review, planning, and proven collaboration patterns. Each command loads a workflow's instructions into context.
+    author: cnrai
+    repository: cnrai/pavesuperpower
+    category: developer-tools
+    icon: ⚡
+    keywords:
+      - workflow
+      - tdd
+      - debugging
+      - code-review
+      - planning
+      - skills
+      - agent
+      - superpowers
+    published: 2026-07-10T03:02:58.000Z
